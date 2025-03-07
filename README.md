@@ -26,4 +26,5 @@ npm start
 - CSS/Styled Components – For custom styling
 
 ## Project Structure
+https://github.com/Jave01/Portfolio-Material-UI-REACT/blob/main/Structure.PNG
 
